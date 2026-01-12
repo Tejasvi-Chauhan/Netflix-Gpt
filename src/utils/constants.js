@@ -21,6 +21,10 @@ export const SUPPORTED_LANGUAGES = [
   { identifier: "en", name: "English" },
   { identifier: "hindi", name: "Hindi" },
   { identifier: "spanish", name: "Spanish" },
+  { identifier: "french", name: "French" },
+  { identifier: "german", name: "German" },
+  { identifier: "japanese", name: "Japanese" },
+  { identifier: "korean", name: "Korean" }, 
 ];
 
 export const OPENAI_KEY = import.meta.env.VITE_OPENAI_KEY;
