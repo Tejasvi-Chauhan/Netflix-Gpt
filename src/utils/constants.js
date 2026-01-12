@@ -26,6 +26,7 @@ export const SUPPORTED_LANGUAGES = [
   { identifier: "japanese", name: "Japanese" },
   { identifier: "korean", name: "Korean" }, 
   { identifier: "chinese", name: "Chinese" },
+
   
 ];
 

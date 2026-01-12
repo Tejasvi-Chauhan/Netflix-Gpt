@@ -10,6 +10,7 @@ import configReducer from "./configSlice";
         movies: moviesReducer,
         gpt: gptReducer,
         config: configReducer,
+        
     },
  });
 
