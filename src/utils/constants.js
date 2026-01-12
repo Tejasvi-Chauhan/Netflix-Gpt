@@ -25,6 +25,8 @@ export const SUPPORTED_LANGUAGES = [
   { identifier: "german", name: "German" },
   { identifier: "japanese", name: "Japanese" },
   { identifier: "korean", name: "Korean" }, 
+  { identifier: "chinese", name: "Chinese" },
+  
 ];
 
 export const OPENAI_KEY = import.meta.env.VITE_OPENAI_KEY;
